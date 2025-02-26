@@ -3,9 +3,7 @@
 功能：答题
 
 抓 cgateway.bjmantis.net.cn 域名下的 openId  和 unionId
-
 变量
-
 unionId#openId#微信名字（名字没实际意义，主要是区分账号）
 
 export jnyjDtCk='' 
